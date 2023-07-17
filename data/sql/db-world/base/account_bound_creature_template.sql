@@ -1,7 +1,7 @@
 SET
 @Entry    := 7500000,
 @Model    := 25609,
-@Name     := "Edward Findle",
+@Name     := "Mago de Oz",
 @Title    := "Heirloom Hoarder",
 @Icon     := "Speak",
 @MinLevel := 25,

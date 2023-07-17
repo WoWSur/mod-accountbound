@@ -2,7 +2,7 @@
 
 ###
 # Allow gamemasters to save and load companions and mounts
-AccountBound.Gamemasters = 0
+AccountBound.Gamemasters = 1
 ###
 
 ###
